@@ -9,10 +9,10 @@ This frontend app should be used to all user to interface with the kind of data 
 
 The app should provide a user with a simple form that accepts the various attributes of of a tank object.
 # Function Description
-# GET /data
+*  GET /data
 The app should make a GET request to the server when it loads in order to retrieve the list of tank objects saved in the database.
 
-# POST /data
+*  POST /data
 The form should accept the following:
 
 * Tank location description
