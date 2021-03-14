@@ -15,10 +15,10 @@ The app should make a GET request to the server when it loads in order to retrie
 * POST /data
 The form should accept the following:
 
-- Tank location description
-- Latitude
-- Longitude
-- Percentage full
+  Tank location description
+  Latitude
+  Longitude
+  Percentage full
 
 * HTML and CSS
 The tank objects pulled from the server should be used to populate cards or blocks. These cards should be designed to display all the attributes of each tank object.
